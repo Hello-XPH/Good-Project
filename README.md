@@ -31,6 +31,8 @@ https://github.com/H5GG/H5GG
 https://github.com/wgh136/PicaComic
 ### Reveil
 https://github.com/Lessica/Reveil
+### TrollApps
+https://github.com/TheResonanceTeam/TrollApps
 ### SidStore
 ### AppStore++
 ## Android
