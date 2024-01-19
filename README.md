@@ -27,6 +27,10 @@ TG频道发
 https://github.com/H5GG/H5GG
 ### iMemscan
 没开源
-
+### PicaComic
+https://github.com/wgh136/PicaComic
+### Reveil
+https://github.com/Lessica/Reveil
+### SidStore
 ### AppStore++
 ## Android
