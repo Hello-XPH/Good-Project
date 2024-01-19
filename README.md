@@ -15,4 +15,8 @@ https://github.com/xiaobovlog/IPCCReplacer
 https://github.com/leminlimez/Cowabunga
 ### Helium
 https://github.com/leminlimez/Helium
+### Aidoku
+https://github.com/Aidoku/Aidoku
+### TrollSpeed
+https://github.com/Lessica/TrollSpeed
 ## Android
