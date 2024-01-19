@@ -19,4 +19,6 @@ https://github.com/leminlimez/Helium
 https://github.com/Aidoku/Aidoku
 ### TrollSpeed
 https://github.com/Lessica/TrollSpeed
+### AppsManager
+没开源
 ## Android
