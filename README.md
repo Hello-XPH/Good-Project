@@ -21,4 +21,9 @@ https://github.com/Aidoku/Aidoku
 https://github.com/Lessica/TrollSpeed
 ### AppsManager
 没开源
+### AppsDump2
+TG频道发
+### H5GG
+https://github.com/H5GG/H5GG
+### AppStore++
 ## Android
